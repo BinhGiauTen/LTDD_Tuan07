@@ -5,8 +5,8 @@ import ScreenLogin from './views/ScreenLogin';
 
 export default function App() {
   return (
-    // <ScreenRegister/>
-    <ScreenLogin/>
+    <ScreenRegister/>
+    // <ScreenLogin/>
   );
 }
 

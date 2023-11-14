@@ -1,0 +1,46 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "name": "John",
+      "username": "John",
+      "password": "123"
+    },
+    {
+      "name": "binh",
+      "userName": "binhpro",
+      "password": "123456",
+      "id": 2
+    },
+    {
+      "name": "Nguyen Van Nam",
+      "userName": "Nam",
+      "password": "12345",
+      "id": 3
+    },
+    {
+      "name": "Thanh",
+      "userName": "Thanh Nam",
+      "password": "123",
+      "id": 4
+    },
+    {
+      "name": "Nguyen Van Anh",
+      "userName": "Anh",
+      "password": "202",
+      "id": 5
+    },
+    {
+      "name": "Nguyen Van Anh",
+      "userName": "Anh",
+      "password": "202",
+      "id": 6
+    },
+    {
+      "name": "Thang Nguyen",
+      "userName": "Thang",
+      "password": "12345",
+      "id": 7
+    }
+  ]
+}

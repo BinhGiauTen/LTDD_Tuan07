@@ -66,7 +66,7 @@ export default function ScreenLogin() {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: '#FFE1FF',
+    backgroundColor: '#dad62e',
     alignItems: 'center',
     justifyContent: 'center',
   },
